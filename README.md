@@ -453,6 +453,8 @@ One important issue is the size of the IMDb dataset. Because the dataset contain
 
 Another limitation is that movie reviews are complex texts. A positive review can describe death, violence, or sadness because the film itself has dark content. A negative review can contain positive words if the reviewer is being sarcastic or disappointed, for example saying that they “wanted to love” the film. In these cases, labMT may score the emotional tone of the words, but not the reviewer’s actual judgement of the movie.
 
+The project also has a wider meaning beyond this specific IMDb dataset. Online reviews are now one of the main ways people express opinions about culture, products, and media. Because there are too many reviews to read one by one, computational methods like sentiment analysis are often used to summarise large amounts of text. This can be useful, but it can also be risky. A method like labMT can show general emotional patterns, but it also reduces complex reviews into a single score. In real movie reviews, people may describe sad stories, use sarcasm, or criticise something with positive words. Therefore, this project shows why automated sentiment analysis should be used carefully: it can support interpretation, but it should not replace contextual reading.
+
 Overall, the project suggests that labMT works best as a broad hedonometer rather than a precise sentiment classifier. It can reveal general emotional tendencies across many texts, but it cannot replace close reading or contextual interpretation. This is why the most important finding is not simply that positive reviews are “happier,” but that a transparent computational method can produce useful patterns while still having clear interpretive limits.
 
 
