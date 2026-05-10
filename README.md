@@ -1,5 +1,9 @@
 # Testing the labMT Hedonometer: From Lexicon Structure to IMDb Review Sentiment
 
+**Student:** Alessia Jia  
+**Course:** Coding Humanities  
+**Assignment:** Individual Resit Project  
+
 ## Project Overview
 
 This individual resit project examines the labMT 1.0 dataset and tests how well it works as a hedonometer for analysing IMDb movie reviews.
