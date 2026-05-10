@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Large raw datasets
+data/raw/aclImdb/
+*.tar.gz
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db

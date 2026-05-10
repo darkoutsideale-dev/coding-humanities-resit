@@ -1,0 +1,39 @@
+Mini Project 1 sanity checks
+----------------------------
+Shape: (10222, 8)
+Duplicate words: 0
+Missing values by column:
+word                               0
+happiness_rank                     0
+happiness_average                  0
+happiness_standard_deviation       0
+twitter_rank                    5222
+google_rank                     5222
+nyt_rank                        5222
+lyrics_rank                     5222
+
+Top 10 positive words:
+     word  happiness_average
+ laughter               8.50
+happiness               8.44
+     love               8.42
+    happy               8.30
+  laughed               8.26
+    laugh               8.22
+ laughing               8.20
+excellent               8.18
+   laughs               8.18
+      joy               8.16
+
+Top 10 negative words:
+     word  happiness_average
+  suicide               1.30
+terrorist               1.30
+     rape               1.44
+   murder               1.48
+terrorism               1.48
+   cancer               1.54
+    death               1.54
+     died               1.56
+     kill               1.56
+   killed               1.56

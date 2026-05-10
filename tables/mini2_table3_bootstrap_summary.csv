@@ -1,0 +1,6 @@
+metric,value
+positive_mean,5.474493820005489
+negative_mean,5.3640204669698175
+observed_difference_positive_minus_negative,0.11047335303567163
+bootstrap_ci_low_2.5,0.10851194577127228
+bootstrap_ci_high_97.5,0.11236726321557396

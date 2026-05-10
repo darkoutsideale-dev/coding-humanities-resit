@@ -1,0 +1,90 @@
+================================================================================
+Mismatch type: positive_label_low_labMT_score
+Review ID: test_pos_2843_7
+Sentiment label: pos
+Rating: 7
+Mean happiness: 4.747
+Matched tokens: 31
+Text: Goof: Factual error<br /><br />When Charlie walks out of the room to commit suicide he takes his gun with a silencer. After a few seconds we hear a loud bang from the same gun being fired.
+
+================================================================================
+Mismatch type: positive_label_low_labMT_score
+Review ID: train_pos_2469_10
+Sentiment label: pos
+Rating: 10
+Mean happiness: 4.763
+Matched tokens: 14
+Text: This is the definitive movie version of Hamlet. Branagh cuts nothing, but there are no wasted moments.
+
+================================================================================
+Mismatch type: positive_label_low_labMT_score
+Review ID: test_pos_1778_10
+Sentiment label: pos
+Rating: 10
+Mean happiness: 4.908
+Matched tokens: 63
+Text: A brutally straightforward tale of murder and capital punishment by the state. So painfully slow and accurate in the description of capital punishment (from the preparation of the gallow to the victim p***ing in his own pants before dying) it has the power to change your mind about death penalty. The whole Dekalog originated from this story: the Dekalog screenwriter was the powerless lawyer unsucc...
+
+================================================================================
+Mismatch type: positive_label_low_labMT_score
+Review ID: train_pos_8584_8
+Sentiment label: pos
+Rating: 8
+Mean happiness: 4.935
+Matched tokens: 46
+Text: Sergeant Ryker is accused of being a traitor during the Korean War, a hanging offense. A long drawn out court-marshal ensues during which time the Sgt. must remain in a military jail. After much investigation the defense attorney attempts to exonerate the doomed non-com with an eleventh hour ploy. Very good picture.
+
+================================================================================
+Mismatch type: positive_label_low_labMT_score
+Review ID: test_pos_11323_7
+Sentiment label: pos
+Rating: 7
+Mean happiness: 4.954
+Matched tokens: 130
+Text: The BBC and HBO teamed up to create "Dirty War", a 90 minute TV movie about a terrorist "dirty bomb" attack in London. The film gets down to business quickly as it packs both the terrorist and the government anti-terrorist efforts into the film leaving little room for human interest subplots. On the terrorist side we follow the bomb from the smuggling of radioactive materials to assembly to deploy...
+
+================================================================================
+Mismatch type: negative_label_high_labMT_score
+Review ID: test_neg_8621_2
+Sentiment label: neg
+Rating: 2
+Mean happiness: 6.007
+Matched tokens: 6
+Text: More suspenseful, more subtle, much, much more disturbing....
+
+================================================================================
+Mismatch type: negative_label_high_labMT_score
+Review ID: train_neg_3935_1
+Sentiment label: neg
+Rating: 1
+Mean happiness: 5.953
+Matched tokens: 24
+Text: Cool idea... botched writing, botched directing, botched editing, botched acting. Sorta makes me wish I could play God and strike everyone involved in making this film with several bolts of lightning.
+
+================================================================================
+Mismatch type: negative_label_high_labMT_score
+Review ID: train_neg_3155_1
+Sentiment label: neg
+Rating: 1
+Mean happiness: 5.865
+Matched tokens: 19
+Text: Great movie - especially the music - Etta James - "At Last". This speaks volumes when you have finally found that special someone.
+
+================================================================================
+Mismatch type: negative_label_high_labMT_score
+Review ID: train_neg_9250_4
+Sentiment label: neg
+Rating: 4
+Mean happiness: 5.846
+Matched tokens: 45
+Text: Disappointing, predictable film in which a woman (Mc Teer) travels with her daughter from state to state because she can't maintain relationships and find happiness. In this genre 'Anywhere but here' starring Susan Sarandon and Natalie Portman gave a much better insight into a mother/daughter relationship. With Better acting as well.
+
+================================================================================
+Mismatch type: negative_label_high_labMT_score
+Review ID: test_neg_4910_3
+Sentiment label: neg
+Rating: 3
+Mean happiness: 5.808
+Matched tokens: 37
+Text: Independent film that would make Hollywood proud. The movie substitutes good looks for good acting, a cryptic plot for a good story line, and self-absorption for character development. May be I missed something, go see it for yourself.
+

@@ -1,0 +1,11 @@
+metric,value
+rows,10222.0
+columns,8.0
+mean_happiness,5.375239679123459
+median_happiness,5.44
+std_happiness,1.0849046665419084
+min_happiness,1.3
+max_happiness,8.5
+5th_percentile,3.18
+95th_percentile,7.08
+duplicate_words,0.0
